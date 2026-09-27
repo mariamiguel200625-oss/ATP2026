@@ -2,7 +2,7 @@
 
 - Maria Miguel Moura
 - A111681
-- 
+  
 
 ## Resumo 
 TPC2: Implementação em Python do jogo "Adivinha o número".
